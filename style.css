@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main-header{
+    background-color: #21D192;
+    width: 100% !important;
+    color: white;
+}
+.bi{
+    font-size: 18px !important;
+    cursor: pointer;
+}
+.second-header{
+    padding: 10px;
+    background-color: aliceblue;
+}
+p{
+    cursor: pointer;
+}
+
+.last-header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
